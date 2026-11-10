@@ -1,3 +1,5 @@
 This is my test of branching
 
+This is my first change in branch side quest
+
 I make this change in MAIN after comitting a different change in SideQuest
